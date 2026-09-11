@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## ZeroUm
 
-## Integrantes:Agatha Oliveira Santos</a>> <a href="https://www.linkedin.com/in/agathaoliveirasantos/", Rafael Morais Rocha</a>, <a href="https://www.linkedin.com/in/rafael-morais-rocha-b681542b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios",Matheus Rodrigues Cabrera</a>> <a href="https://www.linkedin.com/in/matheus-cabrera-9b025824b/">Samuel Batista Pires</a>> <a href="https://www.linkedin.com/in/samuel-batista-pires-019126305/">
+## Integrantes: <a href="https://www.linkedin.com/in/agathaoliveirasantos/">Agatha Oliveira Santos</a>,  <a href="https://www.linkedin.com/in/rafael-morais-rocha-b681542b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios">Rafael Morais Rocha</a>, <a href="https://www.linkedin.com/in/matheus-cabrera-9b025824b/">Matheus Rodrigues Cabrera</a>, <a href="https://www.linkedin.com/in/samuel-batista-pires-019126305/">>Samuel Batista Pires</a>
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
 ## Descrição
