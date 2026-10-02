@@ -14,8 +14,8 @@ Vide tutoriais do PI.
 
 ## ZeroUm
 
-## Integrantes: <a href="https://www.linkedin.com/in/agathaoliveirasantos/">Agatha Oliveira Santos</a>,  <a href="https://www.linkedin.com/in/rafael-morais-rocha-b681542b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios">Rafael Morais Rocha</a>, <a href="https://www.linkedin.com/in/matheus-cabrera-9b025824b/">Matheus Rodrigues Cabrera</a>, <a href="https://www.linkedin.com/in/samuel-batista-pires-019126305/">>Samuel Batista Pires</a>
-## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/luisspires/">Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>
+## Integrantes: <a href="https://www.linkedin.com/in/agathaoliveirasantos/">Agatha Oliveira Santos</a>,  <a href="https://www.linkedin.com/in/matheus-cabrera-9b025824b/">Matheus Rodrigues Cabrera</a>, <a href="https://www.linkedin.com/in/rafael-morais-rocha-b681542b3/">Rafael Morais Rocha</a>, <a href="https://www.linkedin.com/in/samuel-batista-pires-019126305/">>Samuel Batista Pires</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/luisspires/">Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>
 
 ## Descrição
 
@@ -23,7 +23,6 @@ Vide tutoriais do PI.
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
-
 
 <br><br>
 O projeto se trata como um jogo de RPG de ação por turnos ambientado em uma versão fictícia e mágica de uma fábrica da Arcor, onde o jogador assume o papel de um visitante que acaba preso no local. Para reconquistar sua liberdade, é necessário explorar o ambiente, enfrentar combates e solucionar enigmas com o objetivo final de descobrir e realizar um antigo ritual de fuga.
@@ -101,8 +100,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
-
+<a href="https://github.com/2026-2-MCC1/Projeto2">MagicArcor</a> © 2026 by <a href="https://github.com/2026-2-MCC1/Projeto2">Aghata Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires, FECAP.</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
