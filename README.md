@@ -25,11 +25,9 @@ Vide tutoriais do PI.
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O projeto se trata como um jogo de RPG de ação por turnos ambientado em uma versão fictícia e mágica de uma fábrica da Arcor, onde o jogador assume o papel de um visitante que acaba preso no local. Para reconquistar sua liberdade, é necessário explorar o ambiente, enfrentar combates e solucionar enigmas com o objetivo final de descobrir e realizar um antigo ritual de fuga.
+Mais do que apenas entretenimento, o projeto busca fortalecer o vínculo do público com a marca ao integrar de forma orgânica o portfólio da Arcor à jogabilidade. Os produtos deixam de ser meros elementos publicitários visuais e passam a atuar como componentes essenciais e ativos para a progressão da narrativa, ajudando o jogador a superar os desafios e concluir o ritual com sucesso.
 <br><br>
 
 ## 🛠 Estrutura de pastas
