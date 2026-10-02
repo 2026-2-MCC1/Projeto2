@@ -21,7 +21,7 @@ Vide tutoriais do PI.
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  Game by <a href=>Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 <br><br>
@@ -100,7 +100,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-<a href="https://github.com/2026-2-MCC1/Projeto2">MagicArcor</a> © 2026 by <a href="https://github.com/2026-2-MCC1/Projeto2">Aghata Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires, FECAP.</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/2026-2-MCC1/Projeto2">MagicArcor</a> © 2026 by <a href="https://github.com/2026-2-MCC1/Projeto2">Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires, FECAP.</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
