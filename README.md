@@ -87,7 +87,7 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
--<a href=Configuração para Desenvolvimento:
+Configuração para Desenvolvimento:
 Para executar este projeto, você precisará instalar as seguintes ferramentas:
 
 Unity Hub (utilize-o para instalar obrigatoriamente a versão 6000.3.6 da Unity). Link: https://cloud.unity.com/organizations/4674244653537/onboarding/post-download?locale=en&code=fsWEPQPgt7N13UsclE-Jzg004f&locale=en&session_state=86ddf389efc2045bccb175c76528302bc784ccb7b25529b214d9c0627fae09b9.LIbHluIkTVo9zgnjmjU-lw004f
@@ -109,13 +109,6 @@ Clique em Adicionar > Adicionar projeto do disco e selecione a pasta principal d
 Clique no projeto na lista e aguarde a Unity abrir e carregar os arquivos (isso pode levar alguns minutos na primeira vez).
 
 Com a engine aberta, localize o botão de Play (ícone de triângulo verde) na parte superior central da tela e clique para iniciar o jogo.
-</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
 
 ## 📋 Licença/License
 <a href="https://github.com/2026-2-MCC1/Projeto2">MagicArcor</a> © 2026 by <a href="https://github.com/2026-2-MCC1/Projeto2">Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires, FECAP.</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
