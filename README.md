@@ -10,12 +10,12 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Arco Pokemon
+# MagicArcor
 
 ## ZeroUm
 
 ## Integrantes: <a href="https://www.linkedin.com/in/agathaoliveirasantos/">Agatha Oliveira Santos</a>,  <a href="https://www.linkedin.com/in/rafael-morais-rocha-b681542b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios">Rafael Morais Rocha</a>, <a href="https://www.linkedin.com/in/matheus-cabrera-9b025824b/">Matheus Rodrigues Cabrera</a>, <a href="https://www.linkedin.com/in/samuel-batista-pires-019126305/">>Samuel Batista Pires</a>
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href=" https://www.linkedin.com/in/adriano-valente/">Adriano Felix Valente</a>, <a href=" https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a href=" https://www.linkedin.com/in/luisspires/">Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz Do Nascimento</a>, <a href=" https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>
 
 ## Descrição
 
