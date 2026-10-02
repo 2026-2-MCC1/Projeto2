@@ -87,7 +87,6 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
-Configuração para Desenvolvimento:
 Para executar este projeto, você precisará instalar as seguintes ferramentas:
 
 Unity Hub (utilize-o para instalar obrigatoriamente a versão 6000.3.6 da Unity). Link: https://cloud.unity.com/organizations/4674244653537/onboarding/post-download?locale=en&code=fsWEPQPgt7N13UsclE-Jzg004f&locale=en&session_state=86ddf389efc2045bccb175c76528302bc784ccb7b25529b214d9c0627fae09b9.LIbHluIkTVo9zgnjmjU-lw004f
