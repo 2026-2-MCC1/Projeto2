@@ -87,11 +87,29 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+-<a href=Configuração para Desenvolvimento:
+Para executar este projeto, você precisará instalar as seguintes ferramentas:
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+Unity Hub (utilize-o para instalar obrigatoriamente a versão 6000.3.6 da Unity). Link: https://cloud.unity.com/organizations/4674244653537/onboarding/post-download?locale=en&code=fsWEPQPgt7N13UsclE-Jzg004f&locale=en&session_state=86ddf389efc2045bccb175c76528302bc784ccb7b25529b214d9c0627fae09b9.LIbHluIkTVo9zgnjmjU-lw004f
 
--<a href="https://godotengine.org/download">GODOT</a>
+Visual Studio Community 2026 (durante a instalação, marque a carga de trabalho "Desenvolvimento de jogos com o Unity"). Link: https://visualstudio.microsoft.com/pt-br/downloads/
+
+Como instalar as ferramentas:
+
+Unity (6000.3.6): Abra o Unity Hub, vá na aba Installs > Install Editor e escolha a versão 6000.3.6. Se ela não estiver visível na lista, acesse a página Unity Archive pelo navegador, localize a versão e clique no ícone do Unity Hub ao lado dela para iniciar o download.
+
+Visual Studio Community: Abra o Visual Studio Installer. Na tela de Cargas de Trabalho (Workloads), role até a seção de Jogos, marque a opção "Desenvolvimento de jogos com o Unity" e clique em Instalar/Modificar.
+
+Como abrir e rodar o projeto:
+
+Abra o Unity Hub e acesse a aba Projetos.
+
+Clique em Adicionar > Adicionar projeto do disco e selecione a pasta principal do jogo que você baixou.
+
+Clique no projeto na lista e aguarde a Unity abrir e carregar os arquivos (isso pode levar alguns minutos na primeira vez).
+
+Com a engine aberta, localize o botão de Play (ícone de triângulo verde) na parte superior central da tela e clique para iniciar o jogo.
+</a>
 
 ```sh
 make install
