@@ -21,7 +21,7 @@ public class DialogueManager : MonoBehaviour
     public GameObject painelDialogo;
     public TextMeshProUGUI textoNome;
     public TextMeshProUGUI textoFala;
-    public Button botaoAvancar; // Botão adicionado para passar o diálogo
+    public Button botaoAvancar; 
 
     private Queue<DialogueLine> falas = new Queue<DialogueLine>();
     private UnityEvent aoFinalizarDialogo;
@@ -35,16 +35,18 @@ public class DialogueManager : MonoBehaviour
 
     void Start()
     {
-        // Conecta o clique do botão de avançar à função ProximaFala
         if (botaoAvancar != null)
         {
             botaoAvancar.onClick.AddListener(ProximaFala);
+        }
+        if (painelDialogo != null)
+        {
+            painelDialogo.SetActive(false);
         }
     }
 
     void Update()
     {
-        // Permite avançar o diálogo carregando na tecla Espaço ou Enter
         if (emDialogo && (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return)))
         {
             ProximaFala();
@@ -56,7 +58,6 @@ public class DialogueManager : MonoBehaviour
         falas.Clear();
         foreach (var fala in listaFalas)
         {
-            // Substitui {Player} pelo nome guardado nas PlayerPrefs
             string nomeDoPlayer = PlayerPrefs.GetString("NomeJogador", "Jogador");
             DialogueLine linhaProcessada = new DialogueLine
             {
@@ -67,7 +68,12 @@ public class DialogueManager : MonoBehaviour
         }
 
         aoFinalizarDialogo = eventoFinal;
-        painelDialogo.SetActive(true);
+        
+        if (painelDialogo != null)
+        {
+            painelDialogo.SetActive(true);
+        }
+        
         emDialogo = true;
 
         ProximaFala();
@@ -88,7 +94,11 @@ public class DialogueManager : MonoBehaviour
 
     void FinalizarDialogo()
     {
-        painelDialogo.SetActive(false);
+        if (painelDialogo != null)
+        {
+            painelDialogo.SetActive(false);
+        }
+        
         emDialogo = false;
         
         aoFinalizarDialogo?.Invoke();

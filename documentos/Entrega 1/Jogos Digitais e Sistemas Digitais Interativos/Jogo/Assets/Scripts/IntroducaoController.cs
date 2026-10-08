@@ -17,7 +17,7 @@ public class IntroducaoController : MonoBehaviour
     public Button botaoAvancar;
 
     [Header("Configuração de Transição")]
-    public string nomeProximaCena = "Fase_0"; // Nome da cena onde começa o diálogo com a Tortuguita
+    public string nomeProximaCena = "Fase_0"; 
 
     public static string NomeJogador { get; private set; } = "Jogador";
 
