@@ -3,7 +3,7 @@
 --- !u!162 &1
 EditorUserSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 5
+  serializedVersion: 4
   m_ConfigSettings:
     QuickInstaller_com.unity.purchasing_installRecorded:
       value: 2550581500
@@ -16,6 +16,24 @@ EditorUserSettings:
       flags: 0
     RecentlyUsedSceneGuid-0:
       value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 065002035150505d5b0a5c2744760f44104f41797a2b7e60792c4a65bbe33139
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 020751520653585e580f557612220f4443154e7d2e7120677d701b32b2e13161
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5708065301035d0d590f587715715d44464e4a7e282b733279791960e6e4676f
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 530204525c01080a5e585f2048715d44154f1c2c7c7f76622b7b4b35e6e26d6c
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 515507070607580d5d5c54744770074442164c79747c2435782f1867b0e36560
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 0655570750565d0f590b5e77137b5a444e4e4079797d71642e7d4e63b7b3666a
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
@@ -37,4 +55,3 @@ EditorUserSettings:
   m_VCScanLocalPackagesOnConnect: 1
   m_ArtifactGarbageCollection: 1
   m_CompressAssetsOnImport: 1
-  m_VCAutoRevertUnchangedFiles: 0
