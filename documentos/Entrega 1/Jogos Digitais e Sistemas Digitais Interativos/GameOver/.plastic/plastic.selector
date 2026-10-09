@@ -1,0 +1,4 @@
+repository "GameOver 2026-10-09_17-24-17/GameOver@4674244653537@cloud"
+  path "/"
+    br "/main"
+    co "/main"
