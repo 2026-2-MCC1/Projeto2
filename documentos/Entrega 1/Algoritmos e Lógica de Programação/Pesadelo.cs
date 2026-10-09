@@ -360,7 +360,7 @@ void Fase3(string nome, ref int energia, ref int pontos)
 
     string resposta7 = (Console.ReadLine() ?? "").ToLower();
 
-    while (resposta7 != "russia" && energia > 0)
+    while (resposta7 != "rússia" &&resposta7 !="russia" && energia > 0)
     {
         Console.WriteLine("Resposta incorreta. Você perdeu 10 de energia!");
 
