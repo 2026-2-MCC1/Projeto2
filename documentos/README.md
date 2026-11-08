@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **Ferramenta utilizada** | [preencher] |
 | **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
+| **Disciplina / Trabalho** | [Entrega 1.zip](https://github.com/user-attachments/files/34535877/Entrega.1.zip) |
 | **Finalidade de uso** | [preencher] |
 | ***Prompts* principais utilizados** | [preencher] |
 | **Trechos ou entregas afetadas** | [preencher] |
@@ -22,7 +22,7 @@
 | :--- | :--- |
 | **Ferramenta utilizada** | [preencher] |
 | **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
+| **Disciplina / Trabalho** | [Relátorio PI Original.docx](https://github.com/user-attachments/files/34535881/Relatorio.PI.Original.docx) |
 | **Finalidade de uso** | [preencher] |
 | ***Prompts* principais utilizados** | [preencher] |
 | **Trechos ou entregas afetadas** | [preencher] |
@@ -33,7 +33,7 @@
 | :--- | :--- |
 | **Ferramenta utilizada** | [preencher] |
 | **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
+| **Disciplina / Trabalho** | [PI Cálculo .pdf](https://github.com/user-attachments/files/34535884/PI.Calculo.pdf) |
 | **Finalidade de uso** | [preencher] |
 | ***Prompts* principais utilizados** | [preencher] |
 | **Trechos ou entregas afetadas** | [preencher] |
