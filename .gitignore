@@ -16,9 +16,7 @@
 !/[Pp]ackages/packages-lock.json
 
 # Arquivos de IDE
-.vs/
 .idea/
-.vscode/
 *.csproj
 *.unityproj
 *.sln
