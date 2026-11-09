@@ -1,9 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
-
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
@@ -20,8 +14,8 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href=>Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires</a>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/569a39e3-b45d-4eee-8f00-c8c756a1c1c9" />
+Game by <a href=>Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires</a>
 </p>
 
 <br><br>
