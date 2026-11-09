@@ -31,6 +31,7 @@ Mais do que apenas entretenimento, o projeto busca fortalecer o vínculo do púb
 
 ## 🛠 Estrutura de pastas
 
+```text
 Projeto2/
 ├── .gitignore
 ├── README.md
@@ -70,7 +71,7 @@ Projeto2/
     └── Entrega 2/
         ├── Backend/
         └── Frontend/
-        
+ ```       
 ## 🛠 Instalação
 
 <b>Windows:</b>
