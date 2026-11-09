@@ -20,12 +20,12 @@
 
 | **Aluno(s) Responsável(veis)** |Samuel Batista Pires |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
+| **Ferramenta utilizada** | Chat GPT, Copilot e Gemini |
+| **Versão/modelo** | GPT-4o, Linha Gemini 1.5 e Copilot (Gratuito e Pro) |
 | **Disciplina / Trabalho** | [Relátorio PI Original.docx](https://github.com/user-attachments/files/34535881/Relatorio.PI.Original.docx) |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Finalidade de uso** | Correções ortograficas e regras da norma ABNT |
+| ***Prompts* principais utilizados** | "Revise os seguintes pontos: 1. Ortografia e gramática (acentuação, concordância, pontuação, regência) 2. Clareza e coesão (frases confusas, repetições, ideias mal conectadas) 3. Padronização (termos, tempos verbais, estilo de escrita e formatação) 4. Inconsistências (números, datas, nomes ou informações que se contradizem)" "Você é um especialista em normalização de trabalhos acadêmicos segundo as normas da ABNT. Quero que você me explique as regras de formatação e estrutura que devo seguir no meu trabalho." |
+| **Trechos ou entregas afetadas** | Ética e Pensamento Computacional - Entrega 1 – Parcial |
 
 ### Cálculo 1
 
@@ -79,12 +79,12 @@
 
 | **Aluno(s) Responsável(veis)** |Samuel Batista Pires |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
+| **Ferramenta utilizada** | Chat GPT, Copilot e Gemini |
+| **Versão/modelo** | GPT-4o, Linha Gemini 1.5 e Copilot (Gratuito e Pro) |
 | **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Finalidade de uso** | Correções ortograficas e regras da nroma ABNT |
+| ***Prompts* principais utilizados** | "Revise os seguintes pontos: 1. Ortografia e gramática (acentuação, concordância, pontuação, regência) 2. Clareza e coesão (frases confusas, repetições, ideias mal conectadas) 3. Padronização (termos, tempos verbais, estilo de escrita e formatação) 4. Inconsistências (números, datas, nomes ou informações que se contradizem)" "Você é um especialista em normalização de trabalhos acadêmicos segundo as normas da ABNT. Quero que você me explique as regras de formatação e estrutura que devo seguir no meu trabalho." |
+| **Trechos ou entregas afetadas** | Ética e Pensamento Computacional - Entrega  2 – Final  |
 
 ### Projeto Interdisciplinar: Jogos Digitais
 
