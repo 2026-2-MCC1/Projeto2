@@ -53,12 +53,12 @@
 
 | **Aluno(s) Responsável(veis)** |Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | Claude |
+| **Versão/modelo** | Haiku 5.5 |
+| **Disciplina / Trabalho** | Jogos Digitais e Sistemas Digitais Interativos / Fase 0 do jogo |
+| **Finalidade de uso** | Apoio na programação em C# para Unity (scripts de movimento, diálogo, transição de tela e sistema de batalha), explicação de conceitos e depuração de erros de compilação e de execução |
+| ***Prompts* principais utilizados** | Atue como um desenvolvedor Sênior de C# e Unity (versão 6000.0.3f6). Estou desenvolvendo um RPG de ação em turnos 3D, que se passa em uma fábrica de doces fictícia. Preciso que você me auxiliei como criar o script C# para a cena de introdução |
+| **Trechos ou entregas afetadas** | [Jogos Digitais e Sistemas Digitais Interativos - Entrega 1 – Parcial |
 
 ## Entrega 2
 <br><br>
@@ -101,12 +101,12 @@
 
 | **Aluno(s) Responsável(veis)** |Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | não foi utilizado |
+| **Versão/modelo** | não foi utilizado |
+| **Disciplina / Trabalho** | não foi utilizado |
+| **Finalidade de uso** | não foi utilizado |
+| ***Prompts* principais utilizados** | não foi utilizado |
+| **Trechos ou entregas afetadas** | não foi utilizado |
 
 ***Declaro que o uso acima descrito está em conformidade com o GUIA PARA O USO RESPONSÁVEL DE
 INTELIGÊNCIA ARTIFICIAL NA FECAP e que o conteúdo final é de minha plena responsabilidade

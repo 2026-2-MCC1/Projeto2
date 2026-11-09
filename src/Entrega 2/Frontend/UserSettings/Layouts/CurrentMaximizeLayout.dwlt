@@ -251,72 +251,15 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 62948
+      - m_Data: 63498
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -141276
-      - m_Data: -140162
-      - m_Data: -138718
-      - m_Data: -136218
-      - m_Data: -136090
-      - m_Data: -134520
-      - m_Data: -130130
-      - m_Data: -127612
-      - m_Data: -126060
-      - m_Data: -121802
-      - m_Data: -120486
-      - m_Data: -119992
-      - m_Data: -117436
-      - m_Data: -117226
-      - m_Data: -104014
-      - m_Data: -102320
-      - m_Data: -101108
-      - m_Data: -98936
-      - m_Data: -96172
-      - m_Data: -95070
-      - m_Data: -91108
-      - m_Data: -88824
-      - m_Data: -85754
-      - m_Data: -84490
-      - m_Data: -83688
-      - m_Data: -78730
-      - m_Data: -75212
-      - m_Data: -72076
-      - m_Data: -68096
-      - m_Data: -66958
-      - m_Data: -62988
-      - m_Data: -60038
-      - m_Data: -59778
-      - m_Data: -59544
-      - m_Data: -59314
-      - m_Data: -59080
-      - m_Data: -58842
-      - m_Data: -58006
-      - m_Data: -56850
-      - m_Data: -55740
-      - m_Data: -55488
-      - m_Data: -53370
-      - m_Data: -52280
-      - m_Data: -51476
-      - m_Data: -50294
-      - m_Data: 73220
-      - m_Data: 75942
-      - m_Data: 76182
-      - m_Data: 80690
-      - m_Data: 80826
-      - m_Data: 82134
-      - m_Data: 84934
-      - m_Data: 85048
-      - m_Data: 89950
-      - m_Data: 94472
-      - m_Data: 94558
-      - m_Data: 94798
-      - m_Data: 94916
-      - m_Data: 101246
-      - m_Data: 102336
-      - m_Data: 106222
-      - m_Data: 106462
+      - m_Data: -64408
+      - m_Data: -58996
+      - m_Data: -52396
+      - m_Data: -51506
+      - m_Data: 66336
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -361,8 +304,8 @@ MonoBehaviour:
     y: 0
     width: 785
     height: 373
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 8}
@@ -796,9 +739,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.72945, y: 0.15, z: -1.53554}
+    m_Target: {x: 20.525051, y: 23.695477, z: -0.6978909}
     speed: 2
-    m_Value: {x: -0.72945, y: 0.15, z: -1.53554}
+    m_Value: {x: 20.525051, y: 23.695477, z: -0.6978909}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -844,13 +787,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: 0.10268752, y: -0.023871753, z: 0.0024597328, w: 0.9944298}
     speed: 2
-    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Value: {x: 0.10268695, y: -0.02387162, z: 0.002459719, w: 0.9944243}
   m_Size:
-    m_Target: 10
+    m_Target: 19.90064
     speed: 2
-    m_Value: 10
+    m_Value: 19.90064
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -972,19 +915,20 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: 65
-  m_LastProjectPath: C:\Users\admin\Downloads\Jogo MagicArcor
+  m_LastProjectPath: C:\Users\admin\Documents\fecap agatha\Projeto2\src\Entrega 2\Frontend
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 50}
+    scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 62826
+    - m_Data: 63486
     m_LastClickedID:
-      m_Data: 62826
+      m_Data: 63486
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 62818
+    - m_Data: 63476
+    - m_Data: 63490
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1003,7 +947,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 9}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1018,7 +962,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 62818
+    - m_Data: 63476
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1047,10 +991,14 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 62948
-    m_LastClickedInstanceID: 62948
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: []
+    - m_Data: 63498
+    m_LastClickedInstanceID: 63498
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs:
+    - m_Data: 63658
+    - m_Data: 66820
+    - m_Data: 67336
+    - m_Data: 71142
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1102,9 +1050,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 452
-    width: 1042
-    height: 230
+    y: 632
+    width: 1465
+    height: 354
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1137,8 +1085,8 @@ MonoBehaviour:
     y: 0
     width: 323
     height: 629
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}

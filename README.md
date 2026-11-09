@@ -1,9 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
-
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
@@ -14,14 +8,14 @@ Vide tutoriais do PI.
 
 ## ZeroUm
 
-## Integrantes: <a href="https://www.linkedin.com/in/agathaoliveirasantos/">Agatha Oliveira Santos</a>,  <a href="https://www.linkedin.com/in/matheus-cabrera-9b025824b/">Matheus Rodrigues Cabrera</a>, <a href="https://www.linkedin.com/in/rafael-morais-rocha-b681542b3/">Rafael Morais Rocha</a>, <a href="https://www.linkedin.com/in/samuel-batista-pires-019126305/">>Samuel Batista Pires</a>
+## Integrantes: <a href="https://www.linkedin.com/in/agathaoliveirasantos/">Agatha Oliveira Santos</a>,  <a href="https://www.linkedin.com/in/matheus-cabrera-9b025824b/">Matheus Rodrigues Cabrera</a>, <a href="https://www.linkedin.com/in/rafael-morais-rocha-b681542b3/">Rafael Morais Rocha</a>, <a href="https://www.linkedin.com/in/samuel-batista-pires-019126305/">Samuel Batista Pires</a>
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/luisspires/">Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href=>Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires</a>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/569a39e3-b45d-4eee-8f00-c8c756a1c1c9" />
+Game by <a href=>Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires</a>
 </p>
 
 <br><br>
@@ -114,9 +108,10 @@ Com a engine aberta, localize o botão de Play (ícone de triângulo verde) na p
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://share.google/Gw4ietwZXOd04YJxF>
+2. <https://unity.com/>
+3. <https://visualstudio.microsoft.com/>
+4. <https://www.mixamo.com/>
+5. <https://fonts.google.com/specimen/Orbitron>
+6. <https://ambientcg.com/>
+7. <https://sketchfab.com/3d-models/cyberpunk-sci-fi-door-3-free-df980eee6f0f42aaa52d70b668001b4d>

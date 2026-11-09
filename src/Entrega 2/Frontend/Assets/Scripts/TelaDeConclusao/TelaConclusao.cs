@@ -10,13 +10,6 @@ public class TelaConclusao : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
-    // Vai para a tela de início
-    public void IrParaMenu()
-    {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene("MenuInicial"); // troque pelo nome da SUA cena de menu
-    }
-
     // Fecha o jogo
     public void Sair()
     {
