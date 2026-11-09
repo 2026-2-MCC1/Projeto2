@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\jogo magicarcor\\assets\\scripts\\jogador\\liberarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jogador\\liberarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\jogo magicarcor\\assets\\script\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\jogo magicarcor\\assets\\scripts\\battle\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\jogo magicarcor\\assets\\scripts\\core\\dadosbatalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\dadosbatalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\jogo magicarcor\\assets\\scripts\\world\\inimigotrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\inimigotrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\jogo magicarcor\\assets\\scripts\\dialogue\\saidalabirinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\saidalabirinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\jogo magicarcor\\assets\\scripts\\jogador\\jogadorandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jogador\\jogadorandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\jogo magicarcor\\assets\\scripts\\items\\setebelocoletavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\items\\setebelocoletavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LiberarJogador.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Jogador\\LiberarJogador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jogador\\LiberarJogador.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Jogador\\LiberarJogador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jogador\\LiberarJogador.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T01:41:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Script\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Script\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Script\\DialogueManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T01:36:05.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InimigoTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\World\\InimigoTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\InimigoTrigger.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\World\\InimigoTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\InimigoTrigger.cs",
+              "ViewState": "AgIAACMAAAAA/v////8HwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T01:16:58.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DadosBatalha.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Core\\DadosBatalha.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\DadosBatalha.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Core\\DadosBatalha.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\DadosBatalha.cs",
+              "ViewState": "AgIAAA8AAAAAzczMzMwMwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T01:03:27.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaidaLabirinto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Dialogue\\SaidaLabirinto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\SaidaLabirinto.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Dialogue\\SaidaLabirinto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\SaidaLabirinto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T01:01:39.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JogadorAndar.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Jogador\\JogadorAndar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jogador\\JogadorAndar.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Jogador\\JogadorAndar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jogador\\JogadorAndar.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T00:38:20.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeteBeloColetavel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Items\\SeteBeloColetavel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\SeteBeloColetavel.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Items\\SeteBeloColetavel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Items\\SeteBeloColetavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:59:57.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Battle\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleManager.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Jogo MagicArcor\\Assets\\Scripts\\Battle\\BattleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\BattleManager.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAUwFkBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:33:09.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
