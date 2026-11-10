@@ -95,7 +95,7 @@
 | **Disciplina / Trabalho** | [Planilha_Custos_ROI (1).xlsx](https://github.com/user-attachments/files/34590734/Planilha_Custos_ROI.1.xlsx) |
 | **Finalidade de uso** | Pesquisa e análise de porcentagens, gastos e roi. |
 | ***Prompts* principais utilizados** | Tenho uma planilha de custos e ROI do meu jogo. Preciso que você me ajude a pesquisar e analisar as porcentagens, os gastos e o ROI do projeto. Para isso, considere: as horas semanais da equipe e o valor-hora; os custos de mão de obra, equipamentos, energia, internet, softwares e impressão; a reserva de imprevistos em porcentagem; e a margem de retorno esperada. Calcule o custo total, o custo por integrante e por hora, a participação de cada categoria no gasto total e o ROI. |
-| **Trechos ou entregas afetadas** | rojeto Interdisciplinar: Jogos Digitais - Entrega  2 |
+| **Trechos ou entregas afetadas** | Projeto Interdisciplinar: Jogos Digitais - Entrega  2 |
 
 ### Jogos Digitais e Sistemas Digitais Interativos
 
