@@ -46,6 +46,7 @@ Projeto2/
 │   └── UserSettings/
 │       └── Layouts/
 ├── documentos/
+│   ├── Declaração de IA
 │   ├── Entrega 1/
 │   │   ├── Algoritmos e Lógica de Programação/
 │   │   ├── Calculo 1/
