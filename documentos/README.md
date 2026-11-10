@@ -95,7 +95,7 @@
 | **Disciplina / Trabalho** | [Planilha_Custos_ROI (1).xlsx](https://github.com/user-attachments/files/34590734/Planilha_Custos_ROI.1.xlsx) |
 | **Finalidade de uso** | Pesquisa e análise de porcentagens, gastos e roi. |
 | ***Prompts* principais utilizados** | Tenho uma planilha de custos e ROI do meu jogo. Preciso que você me ajude a pesquisar e analisar as porcentagens, os gastos e o ROI do projeto. Para isso, considere: as horas semanais da equipe e o valor-hora; os custos de mão de obra, equipamentos, energia, internet, softwares e impressão; a reserva de imprevistos em porcentagem; e a margem de retorno esperada. Calcule o custo total, o custo por integrante e por hora, a participação de cada categoria no gasto total e o ROI. |
-| **Trechos ou entregas afetadas** | rojeto Interdisciplinar: Jogos Digitais - Entrega  2 |
+| **Trechos ou entregas afetadas** | Projeto Interdisciplinar: Jogos Digitais - Entrega  2 |
 
 ### Jogos Digitais e Sistemas Digitais Interativos
 
@@ -107,6 +107,17 @@
 | **Finalidade de uso** | não foi utilizado |
 | ***Prompts* principais utilizados** | não foi utilizado |
 | **Trechos ou entregas afetadas** | não foi utilizado |
+
+### Declaração IA nos códigos
+
+| **Aluno(s) Responsável(veis)** |Agatha Oliveira Santos, Matheus Rodrigues Cabrera, Rafael Morais Rocha, Samuel Batista Pires |
+| :--- | :--- |
+| **Ferramenta utilizada** | Claude |
+| **Versão/modelo** | Haiku 5.5 |
+| **Disciplina / Trabalho** | Códigos do jogo |
+| **Finalidade de uso** | Ajuda na criação, correção e analise dos codigos |
+| ***Prompts* principais utilizados** | "Ajude a identificar problemas no funcionamento do meu jogo na Unity. Analise os comportamentos apresentados, investigue possíveis causas e indique caminhos para solucionar os problemas. Explique cada etapa da análise e considere a estrutura atual do projeto." "Avalie o código do meu jogo na Unity e indique possíveis melhorias de organização, desempenho e eficiência. Identifique trechos que podem ser simplificados e explique como melhorar o funcionamento sem comprometer as funcionalidades existentes." "Explique como funciona a implementação de determinada funcionalidade em um jogo desenvolvido na Unity. Apresente os principais conceitos envolvidos, os componentes necessários e como eles se relacionam dentro do projeto." "Analise o código em C# que estou utilizando na Unity. Identifique possíveis erros, explique por que eles acontecem e apresente sugestões para corrigi-los. Preserve a estrutura original sempre que possível e explique as alterações de maneira simples." |
+| **Trechos ou entregas afetadas** | Codigos do jogo |
 
 ***Declaro que o uso acima descrito está em conformidade com o GUIA PARA O USO RESPONSÁVEL DE
 INTELIGÊNCIA ARTIFICIAL NA FECAP e que o conteúdo final é de minha plena responsabilidade
